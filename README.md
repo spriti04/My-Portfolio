@@ -119,12 +119,11 @@ npm run build
 
 📧 Email: pritimayeen3@gmail.com
 
-💼 LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/pritimayee-nayak-741b68371/)
+💼 LinkedIn: [Pritimayee - LinkedIn](https://www.linkedin.com/in/pritimayee-nayak-741b68371/)
 
-🐙 GitHub: [https://github.com/your-github-username](https://github.com/spriti04/)
+🐙 GitHub: [Pritimayee - GitHub](https://github.com/spriti04/)
 
-🌐 Portfolio: [https://your-netlify-link.netlify.app
-](https://pritimayee-portfolio.netlify.app/)
+🌐 Portfolio: [My Portfolio](https://pritimayee-portfolio.netlify.app/)
 ---
 
 ## 🤝 Connect With Me
