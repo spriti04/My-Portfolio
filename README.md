@@ -10,7 +10,7 @@ This portfolio showcases my journey as a **Java Full-Stack Developer**, featurin
 
 ## 📸 Portfolio Preview
 
-![Portfolio Screenshot](./screenshots/portfolio-preview.png)
+![Portfolio Screenshot](./portfolio-preview.png)
 
 ---
 
